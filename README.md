@@ -1,3 +1,3 @@
-# tsf21
+# TSF-21
 
-My tasks at The Sparks Foundation.
+A repository of my tasks at The Sparks Foundation.
